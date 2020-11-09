@@ -31,8 +31,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          
-          - name: setup-gpg
-  # You may pin to the exact commit or the version.
-  # uses: olafurpg/setup-gpg@a62c5903e98d692e520bc2f46103b919a61dd386
-  uses: olafurpg/setup-gpg@v3
